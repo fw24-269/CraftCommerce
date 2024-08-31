@@ -1,6 +1,6 @@
-# CraftCommerce
+# CraftyCommerce
 
-# E-commerce Platform Project
+## E-commerce Platform Project
 
 This project aims to develop an e-commerce platform with various features.
 
@@ -14,7 +14,7 @@ We'll be utilizing feature branching to isolate and develop functionalities inde
 | feature-shopping-cart    | Develop functionality for adding and managing items in the shopping cart. |
 | feature-customer-reviews | Develop functionality for allowing customers to submit and view reviews.  |
 
-## Lessons Learned (To be updated)
+## Lessons Learned
 
 As we progress with the project, we'll document key takeaways about using Git in a team environment. This section will cover areas like:
 
